@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\bin\Debug\netcoreapp3.1\Repeticao-Maior-Menor.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\bin\Debug\netcoreapp3.1\Repeticao-Maior-Menor.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\bin\Debug\netcoreapp3.1\Repeticao-Maior-Menor.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\bin\Debug\netcoreapp3.1\Repeticao-Maior-Menor.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\bin\Debug\netcoreapp3.1\Repeticao-Maior-Menor.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\bin\Debug\netcoreapp3.1\Repeticao-Maior-Menor.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\obj\Debug\netcoreapp3.1\Repeticao-Maior-Menor.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\obj\Debug\netcoreapp3.1\Repeticao-Maior-Menor.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\obj\Debug\netcoreapp3.1\Repeticao-Maior-Menor.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\obj\Debug\netcoreapp3.1\Repeticao-Maior-Menor.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\obj\Debug\netcoreapp3.1\Repeticao-Maior-Menor.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\obj\Debug\netcoreapp3.1\Repeticao-Maior-Menor.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Repeticao-Maior-Menor\obj\Debug\netcoreapp3.1\Repeticao-Maior-Menor.genruntimeconfig.cache
